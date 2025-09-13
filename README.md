@@ -23,3 +23,17 @@ Swing (for GUI components)
 AWT (for file dialogs)
 
 ---
+
+⚙️ Setup Instructions
+1. Prerequisites
+
+Install Java JDK
+ (version 8 or higher).
+
+Make sure javac and java are available in your terminal or command prompt:
+
+2. Clone the Repository
+
+3. Compile the Code
+
+4. Run the Application
